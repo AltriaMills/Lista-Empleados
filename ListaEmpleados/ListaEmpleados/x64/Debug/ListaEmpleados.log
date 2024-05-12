@@ -1,0 +1,6 @@
+﻿  ListEmpale.cpp
+C:\Users\marif\OneDrive\Documentos\ListaEmpleados\ListaEmpleados\ListEmpale.cpp(16,2): warning C4091: 'typedef ': se ha omitido a la izquierda de 'Empleados' cuando no hay ninguna variable declarada
+C:\Users\marif\OneDrive\Documentos\ListaEmpleados\ListaEmpleados\ListEmpale.cpp(59,32): error C2660: 'verificaExiste': la función no acepta 1 argumentos
+C:\Users\marif\OneDrive\Documentos\ListaEmpleados\ListaEmpleados\ListEmpale.cpp(9,5): message : vea la declaración de 'verificaExiste'
+C:\Users\marif\OneDrive\Documentos\ListaEmpleados\ListaEmpleados\ListEmpale.cpp(92,32): error C2660: 'verificaExiste': la función no acepta 1 argumentos
+C:\Users\marif\OneDrive\Documentos\ListaEmpleados\ListaEmpleados\ListEmpale.cpp(9,5): message : vea la declaración de 'verificaExiste'
